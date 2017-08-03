@@ -1,0 +1,148 @@
+body{
+	text-align: center;
+	color: #ffffff;
+	background-color: #161616;
+	background-image: url("../images/bg.jpg");
+}
+
+/*Homepage*/
+.cover{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6%;
+	max-width: 80%;
+}
+.home-buttons{
+	margin-top: .2em;
+	min-width: 14em;
+}
+.cover-heading{
+	font-size: 5em;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+#chname{
+	margin-top: 0;
+	color: #0ecfed;
+}
+#joshua{
+	margin-bottom: 0;
+	color: #0ecfed;
+}
+.description{
+	font-size: 1.2em;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 90%;
+}
+.home-section{
+	margin-top: 2em;
+}
+.row-one-buttons{
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+.role h3{
+	margin-top: 0;
+}
+.contact{
+	margin-top: 15%;
+	margin-bottom: 10%;
+}
+.contact h3{
+	margin-bottom: 1.2em;
+}
+.competencies{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 90%;
+}
+.skill{
+	border-left: thin solid;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	color: #0ecfed;
+}
+.last-skill{
+	border-right: thin solid;
+}
+.btn{
+	background-color: #0ecfed;
+	color: #000000;
+	border-color: #0ecfed;
+}
+.btn:hover{
+	background-color: #0f98c1;
+	color: #ffffff;
+	border-color: #0f98c1;
+}
+
+/*Project Page*/
+.client-title{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 3.5em;
+	margin-top: 4%;
+}
+.project-title{
+	text-align: left;
+}
+.project-item{
+	text-align: left;
+}
+.thumbnail{
+	width: 100%;
+	height: auto;
+}
+.full-video{
+	width: 70%;
+	height: auto;
+}
+.project{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 90%;
+	margin-top: 4%;
+	border-top: thin solid #ffffff;
+}
+.project-title{
+	color: #0ecfed;
+}
+.last-project{
+	margin-bottom: 4%;
+	padding-bottom: 2%;
+	border-bottom: thin solid #ffffff;
+}
+.project-jarvis{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 90%;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.back-button-div{
+	margin-bottom: 6%;
+}
+.back-button{
+	min-width: 20em;
+}
+.text-button{
+	width: 14em;
+	margin: 2%;
+}
+.copy-text-button{
+	width: 100%;
+	margin: 2%;
+}
+.white-title{
+	color: #ffffff;
+}
+.first-row{
+	margin-top: 6%;
+}
+.last-row{
+	margin-top: 4%;
+	margin-bottom: 10%;
+}
+.profile{
+		max-width: 20%;
+		margin-bottom: 1%;
+}
