@@ -2,7 +2,9 @@ body{
 	text-align: center;
 	color: #ffffff;
 	background-color: #161616;
-	background-image: url("../images/bg.jpg");
+	width: 100%;
+	height: auto;
+	background-image: url("../images/bg.png");
 }
 
 /*Homepage*/
@@ -143,6 +145,6 @@ body{
 	margin-bottom: 10%;
 }
 .profile{
-		max-width: 20%;
+		max-width: 12%;
 		margin-bottom: 1%;
 }
